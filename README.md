@@ -8,16 +8,9 @@
 
 ---
 
-[![Build Status][build-badge]][build]
-[![Version][version-badge]][package]
-[![MIT License][license-badge]][license]
+**I have forked this to use in my personal project. Contains usecase specific changes.**
 
-[![PRs Welcome][prs-welcome-badge]][prs-welcome]
-[![Chat][chat-badge]][chat]
-[![Code of Conduct][coc-badge]][coc]
-[![Sponsored by Callstack][callstack-badge]][callstack]
-
-[![tweet][tweet-badge]][tweet]
+---
 
 ## Features
 
